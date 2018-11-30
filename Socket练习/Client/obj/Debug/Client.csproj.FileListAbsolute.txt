@@ -1,0 +1,9 @@
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\bin\Debug\Client.exe.config
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\bin\Debug\Client.exe
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\bin\Debug\Client.pdb
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\obj\Debug\Client.Form1.resources
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\obj\Debug\Client.Properties.Resources.resources
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\obj\Debug\Client.exe
+E:\HedExDownload\Ccc1Z\Code\Socket练习\Client\obj\Debug\Client.pdb

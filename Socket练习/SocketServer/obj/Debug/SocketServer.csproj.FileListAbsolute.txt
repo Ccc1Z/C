@@ -1,0 +1,10 @@
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\obj\Debug\SocketServer.Form1.resources
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\bin\Debug\SocketServer.exe.config
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\bin\Debug\SocketServer.exe
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\bin\Debug\SocketServer.pdb
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\obj\Debug\SocketServer.exe
+E:\HedExDownload\Ccc1Z\Code\Socket练习\SocketServer\obj\Debug\SocketServer.pdb
